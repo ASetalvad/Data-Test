@@ -11,3 +11,6 @@
 - Sportrac maybe got it from Wikipedia and other sources
 
 ### What are the claims they make?
+
+
+![img](http:stanford.edu//)
