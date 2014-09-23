@@ -6,4 +6,4 @@ Data-Test
 - a
 - list
 
-!(img)(http://placekitten.com/g/600/400)
+![img](http://placekitten.com/g/600/400)
