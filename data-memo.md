@@ -13,6 +13,6 @@
 ### What are the claims they make?
 
 
-![This is a caption](http://stanford.edu)
+![This is a caption]
 
 [homework](http://www.padjo.org/2014-09-23/#homework-details)
